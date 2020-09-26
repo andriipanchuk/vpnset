@@ -525,7 +525,4 @@ EOF
 }
 
 ## Defer setup until we have the complete script
-vpnsetup "$@"
 
-exit 0
-YOUR_IPSEC_PSK='andrii' YOUR_USERNAME='andrii' YOUR_PASSWORD='panchfuk'
