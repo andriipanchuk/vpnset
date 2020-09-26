@@ -24,7 +24,9 @@
 # - All values MUST be placed inside 'single quotes'
 # - DO NOT use these special characters within values: \ " '
 
-
+YOUR_IPSEC_PSK='cyber-pro'
+YOUR_USERNAME='cyber'
+YOUR_PASSWORD='panchuk'
 
 # Important notes:   https://git.io/vpnnotes
 # Setup VPN clients: https://git.io/vpnclients
@@ -525,4 +527,6 @@ EOF
 }
 
 ## Defer setup until we have the complete script
+vpnsetup "$@"
 
+exit 0
