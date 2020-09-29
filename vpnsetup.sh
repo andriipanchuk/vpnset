@@ -26,7 +26,7 @@
 
 YOUR_IPSEC_PSK='cyber-pro'
 YOUR_USERNAME='cyber'
-YOUR_PASSWORD='panchuk'
+YOUR_PASSWORD='supercyber'
 
 # Important notes:   https://git.io/vpnnotes
 # Setup VPN clients: https://git.io/vpnclients
